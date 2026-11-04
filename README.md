@@ -61,8 +61,6 @@
   </tr>
 </table>
 
-<br>
-
 <h3>$\color{#00FFFF}{\text{✦ SEM ESCOPO...}}$</h3>
 
 <img align="right" width="200" src="https://wallpapers.com/images/thumbnail/fantasy-saturn-scene-png-82-dqtxspz5dwi0pcac.jpg" alt="Planeta Saturno" />
