@@ -8,57 +8,13 @@
 
 <br clear="left"/>
 <br>
-
-**Sou um profissional que une desenvolvimento de software e inteligência de dados para trazer soluções além de códigos e planilhas!** 🎢
-
+<p>**Sou um profissional que une desenvolvimento de software e inteligência de dados para trazer soluções além de códigos e planilhas! 🎢**</p>
 <br>
 
 <h3>$\color{#FFD700}{\text{HABILIDADES}}$</h3>
 
 <table align="center">
-  <tr valign="top">
-    <td width="33%">
-      <div align="center">
-        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" width="80" alt="PostgreSQL" />
-        <br>
-        <b>🔥 PostgreSQL</b>
-      </div>
-      <ul>
-        <li>Modelagem de banco de dados</li>
-        <li>Normalização</li>
-        <li>JSONB</li>
-        <li>JOIN, VIEW, GROUP BY, SUBQUERY, AS...</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="80" alt="Node.js" />
-        <br>
-        <b>🔥 Node.js</b>
-      </div>
-      <ul>
-        <li>Express, pg & ORMs</li>
-        <li>Consumo de APIs e bibliotecas</li>
-        <li>Boas práticas e Documentação</li>
-        <li>Manipulação de dados JSON</li>
-        <li>Tratamento de erros</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/4529/4529980.png" width="80" alt="Dados e IA" />
-        <br>
-        <b>🌌 Dados/IA</b>
-      </div>
-      <ul>
-        <li>Experiência em criação de agentes</li>
-        <li>Conhecimento em engenharia de prompt</li>
-        <li>Supervisão e controle de projeto</li>
-        <li>Conhecimento de escopo</li>
-        <li>Análise de dados e clientes</li>
-      </ul>
-    </td>
-  </tr>
+ <img src="img/habilidades.png">
 </table>
 
 <br>
@@ -106,32 +62,12 @@ A aplicação destaca-se pela modelagem de dados híbrida no PostgreSQL, combina
 <br>
 
 <table align="center" border="0">
-  <tr valign="top">
-    <td width="33%">
-      <div align="center">
-        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" width="150" alt="PostgreSQL" />
-        <br><br>
-        <b>DADOS</b>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="150" alt="Node.js" />
-        <br><br>
-        <b>BACK</b>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/019/786/711/small/fluid-abstract-banners-geometric-liquid-forms-gradient-elements-for-flyer-brochure-and-posts-with-text-copy-space-graphic-dynamic-shapes-for-minimal-curvy-design-png.png" width="180" alt="Front-end" />
-        <br><br>
-        <b>FRONT</b>
-      </div>
-    </td>
-  </tr>
+
+ ![](img/tres.png)
+ 
 </table>
 
 <br>
 
-<h3 align="center">Três coisas em um lugar!</h3>
+<h1 align="center">Três coisas em um lugar!</h1>
 <p align="center">Interessado? Entre em contato comigo: <a href="mailto:kauedavirochadev@gmail.com">kauedavirochadev@gmail.com</a></p>
