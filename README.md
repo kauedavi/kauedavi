@@ -1,6 +1,6 @@
 <img align="left" width="220" src="./img/mascote_animado_glitch.gif" alt="Mascote Animado" />
 
-<h1>$\Huge{\color{#FF4500}{\textbf{Kauê Davi}}}$</h1>
+<h3>$\Huge{\color{#FF4500}{\textbf{Kauê Davi}}}$</h3>
 <h3>
   $\large{\color{#00FFFF}{\text{» Desenvolvedor Back-end «}}}$<br>
   $\large{\color{#00FFFF}{\text{» Analista/Cientista de Dados «}}}$
@@ -13,7 +13,7 @@
 
 <br>
 
-## $\color{#FFD700}{\text{HABILIDADES}}$
+<h3>$\color{#FFD700}{\text{HABILIDADES}}$</h3>
 
 <table align="center">
   <tr valign="top">
@@ -63,7 +63,7 @@
 
 <br>
 
-### $\color{#00FFFF}{\text{✦ SEM ESCOPO...}}$
+<h3>$\color{#00FFFF}{\text{✦ SEM ESCOPO...}}$</h3>
 
 <img align="right" width="200" src="https://wallpapers.com/images/thumbnail/fantasy-saturn-scene-png-82-dqtxspz5dwi0pcac.jpg" alt="Planeta Saturno" />
 
@@ -72,9 +72,9 @@ Combino minha capacidade analítica com domínio técnico para extrair, tratar e
 <br clear="right"/>
 <br>
 
-<h1>$\Huge{\color{#FF4500}{\textbf{Projetos}}}$</h1>
+<h3>$\Huge{\color{#FF4500}{\textbf{Projetos}}}$</h3>
 
-<h2>$\color{#FFD700}{\text{Agente IA local: Sr.Duck IA}}$</h2>
+<h3>$\color{#FFD700}{\text{Agente IA local: Sr.Duck IA}}$</h3>
 
 ![ia local](img/duck-ia.png)
 
@@ -84,7 +84,7 @@ Arquitetura modular baseada em Tool Calling assíncrono, permitindo a execução
 
 <hr>
 
-<h2>$\color{#00FFFF}{\text{Portfólio real: Corretor de Imóveis}}$</h2>
+<h3>$\color{#00FFFF}{\text{Portfólio real: Corretor de Imóveis}}$</h3>
 
 ![corretor site](img/corretor.png)
 
@@ -94,7 +94,7 @@ Esse projeto demonstra minhas noções de UX/UI, Bootstrap, HTML e CSS, pois, al
 
 <hr>
 
-<h2>$\color{#FFD700}{\text{Marcenaria (em desenvolvimento)}}$</h2>
+<h3>$\color{#FFD700}{\text{Marcenaria (em desenvolvimento)}}$</h3>
 
 ![marcenaria site](img/marcenaria.png)
 
@@ -107,25 +107,31 @@ A aplicação destaca-se pela modelagem de dados híbrida no PostgreSQL, combina
 
 <table width="100%" border="0">
   <tr valign="top">
-    <td width="33%" align="center">
-      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" width="150" alt="PostgreSQL" />
-      <br><br>
-      <b>DADOS</b>
+    <td width="33%">
+      <div align="center">
+        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" width="150" alt="PostgreSQL" />
+        <br><br>
+        <b>DADOS</b>
+      </div>
     </td>
-    <td width="33%" align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="150" alt="Node.js" />
-      <br><br>
-      <b>BACK</b>
+    <td width="33%">
+      <div align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="150" alt="Node.js" />
+        <br><br>
+        <b>BACK</b>
+      </div>
     </td>
-    <td width="33%" align="center">
-      <img src="https://static.vecteezy.com/system/resources/thumbnails/019/786/711/small/fluid-abstract-banners-geometric-liquid-forms-gradient-elements-for-flyer-brochure-and-posts-with-text-copy-space-graphic-dynamic-shapes-for-minimal-curvy-design-png.png" width="180" alt="Front-end" />
-      <br><br>
-      <b>FRONT</b>
+    <td width="33%">
+      <div align="center">
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/019/786/711/small/fluid-abstract-banners-geometric-liquid-forms-gradient-elements-for-flyer-brochure-and-posts-with-text-copy-space-graphic-dynamic-shapes-for-minimal-curvy-design-png.png" width="180" alt="Front-end" />
+        <br><br>
+        <b>FRONT</b>
+      </div>
     </td>
   </tr>
 </table>
 
 <br>
 
-<h1 align="center">Três coisas em um lugar!</h1>
+<h3 align="center">Três coisas em um lugar!</h3>
 <p align="center">Interessado? Entre em contato comigo: <a href="mailto:kauedavirochadev@gmail.com">kauedavirochadev@gmail.com</a></p>
