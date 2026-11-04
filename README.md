@@ -72,7 +72,7 @@ Combino minha capacidade analítica com domínio técnico para extrair, tratar e
 <br clear="right"/>
 <br>
 
-<h3>$\Huge{\color{#FF4500}{\textbf{Projetos}}}$</h3>
+<h2>$\Huge{\color{#FF4500}{\textbf{Projetos}}}$</h2>
 
 <h3>$\color{#FFD700}{\text{Agente IA local: Sr.Duck IA}}$</h3>
 
@@ -105,7 +105,7 @@ A aplicação destaca-se pela modelagem de dados híbrida no PostgreSQL, combina
 <br>
 <br>
 
-<table width="100%" border="0">
+<table align="center" border="0">
   <tr valign="top">
     <td width="33%">
       <div align="center">
