@@ -34,7 +34,7 @@
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="80" alt="Node.js" />
         <br>
-        <b>🔥 Node.js</b>
+        <b>✳ Node.js</b>
       </div>
       <ul>
         <li>Express, pg & ORMs</li>
