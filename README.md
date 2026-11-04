@@ -1,13 +1,17 @@
 <img align="left" width="220" src="./img/mascote_animado_glitch.gif" alt="Mascote Animado" />
 
-$\Huge{\color{#FF4500}{\textbf{Kauê Davi}}}$
-$\large{\color{#00FFFF}{\text{» Desenvolvedor Back-end «}}}$
-$\large{\color{#00FFFF}{\text{» Analista/Cientista de Dados «}}}$
+<h1>$\Huge{\color{#FF4500}{\textbf{Kauê Davi}}}$</h1>
+<h3>
+  $\large{\color{#00FFFF}{\text{» Desenvolvedor Back-end «}}}$<br>
+  $\large{\color{#00FFFF}{\text{» Analista/Cientista de Dados «}}}$
+</h3>
 
 <br clear="left"/>
 <br>
 
 **Sou um profissional que une desenvolvimento de software e inteligência de dados para trazer soluções além de códigos e planilhas!** 🎢
+
+<br>
 
 ## $\color{#FFD700}{\text{HABILIDADES}}$
 
@@ -15,7 +19,7 @@ $\large{\color{#00FFFF}{\text{» Analista/Cientista de Dados «}}}$
   <tr valign="top">
     <td width="33%">
       <div align="center">
-        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="80" alt="PostgreSQL" />
+        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" width="80" alt="PostgreSQL" />
         <br>
         <b>🔥 PostgreSQL</b>
       </div>
@@ -42,7 +46,6 @@ $\large{\color{#00FFFF}{\text{» Analista/Cientista de Dados «}}}$
     </td>
     <td width="33%">
       <div align="center">
-        <!-- Substitua image.png pelo link da sua imagem -->
         <img src="https://cdn-icons-png.flaticon.com/512/4529/4529980.png" width="80" alt="Dados e IA" />
         <br>
         <b>🌌 Dados/IA</b>
@@ -67,63 +70,62 @@ $\large{\color{#00FFFF}{\text{» Analista/Cientista de Dados «}}}$
 Combino minha capacidade analítica com domínio técnico para extrair, tratar e automatizar dados, além de criar soluções reais com o desenvolvimento de projetos.
 
 <br clear="right"/>
+<br>
 
-$\Huge{\color{#FF4500}{\textbf{Projetos}}}$
+<h1>$\Huge{\color{#FF4500}{\textbf{Projetos}}}$</h1>
 
-## $\color{#FFD700}{\text{Agente IA local: Sr.Duck IA}}$
+<h2>$\color{#FFD700}{\text{Agente IA local: Sr.Duck IA}}$</h2>
 
 ![ia local](img/duck-ia.png)
+
 **Descrição:** Agente de IA autônomo desenvolvido em Node.js (ES Modules) e alimentado por um LLM local (Ollama / qwen2.5-coder).
 
 Arquitetura modular baseada em Tool Calling assíncrono, permitindo a execução segura de automações de sistema, scraping web, manipulação de arquivos e envio de e-mails (SMTP), com controle rígido de rotas e permissões HTTP RESTful.
 
+<hr>
 
-## $\color{#00FFFF}{\text{Portifólio real: Corretor de Imóveis}}$
+<h2>$\color{#00FFFF}{\text{Portfólio real: Corretor de Imóveis}}$</h2>
 
 ![corretor site](img/corretor.png)
+
 **Descrição:** Projeto real envolvendo um cliente que buscava aumentar sua relevância digital. O resultado: um cliente satisfeito e muito agradecido.
 
 Esse projeto demonstra minhas noções de UX/UI, Bootstrap, HTML e CSS, pois, além de criar APIs e gerir dados, também sei desenvolver interfaces! Criei uma Landing Page e cuidei de toda a parte de hospedagem, envio de mensagens via WhatsApp e registro de domínio!
 
-## $\color{#FFD700}{\text{Marcenaria (em desenvolvimento)}}$
+<hr>
+
+<h2>$\color{#FFD700}{\text{Marcenaria (em desenvolvimento)}}$</h2>
 
 ![marcenaria site](img/marcenaria.png)
+
 **Descrição:** API RESTful desenvolvida em Node.js e Express para a gestão completa de insumos, ordens de serviço e catálogo de produtos de marcenaria. 
 
 A aplicação destaca-se pela modelagem de dados híbrida no PostgreSQL, combinando tabelas relacionais com colunas JSONB (NoSQL) para suportar atributos e especificações técnicas dinâmicas sem perder a integridade referencial nem o desempenho das consultas.
 
 <br>
 <br>
-<br><br>
-<br>
-<br>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr valign="top">
-    <td width="33%">
-      <div align="center">
-        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" width="150" alt="PostgreSQL" />
-        <br>
-        <b>DADOS</b>
-      </div>
+    <td width="33%" align="center">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" width="150" alt="PostgreSQL" />
+      <br><br>
+      <b>DADOS</b>
     </td>
-    <td width="33%">
-      <div align="center">
+    <td width="33%" align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="150" alt="Node.js" />
-        <br>
-        <b>BACK</b>
-      </div>
+      <br><br>
+      <b>BACK</b>
     </td>
-    <td width="33%">
-      <div align="center">
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/019/786/711/small/fluid-abstract-banners-geometric-liquid-forms-gradient-elements-for-flyer-brochure-and-posts-with-text-copy-space-graphic-dynamic-shapes-for-minimal-curvy-design-png.png" width="180" alt="Front-end" />
-        <br>
-        <b>FRONT</b>
-      </div>
+    <td width="33%" align="center">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/019/786/711/small/fluid-abstract-banners-geometric-liquid-forms-gradient-elements-for-flyer-brochure-and-posts-with-text-copy-space-graphic-dynamic-shapes-for-minimal-curvy-design-png.png" width="180" alt="Front-end" />
+      <br><br>
+      <b>FRONT</b>
     </td>
   </tr>
 </table>
 
 <br>
-<h2 align="center">Três coisas em um lugar!</h2>
+
+<h1 align="center">Três coisas em um lugar!</h1>
 <p align="center">Interessado? Entre em contato comigo: <a href="mailto:kauedavirochadev@gmail.com">kauedavirochadev@gmail.com</a></p>
