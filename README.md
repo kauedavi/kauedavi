@@ -11,6 +11,21 @@
 
 **Sou um profissional que une desenvolvimento de software e Ciência de Dados para trazer soluções que vão além de códigos e planilhas isoladas! 🎢**
 
+
+<p align="center">
+<img src="img/badges/firebase.svg">
+<img src="img/badges/mysql.svg">
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Insomnia-%23000.svg?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+<img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="">
+</p>
+
 <br>
 
 <h3>$\color{#FFD700}{\text{HABILIDADES}}$</h3>
